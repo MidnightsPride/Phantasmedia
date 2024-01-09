@@ -10,6 +10,7 @@ Use this app to find the weather conditions in your area, or around the world. S
 Used a youtube tutorial on how to create this spp as I was a bit stuck
 
 # Features
-The app is a responsive site, compatible for phone, tablet and computer
+* The app is a responsive site, compatible for phone, tablet and computer
+* The API used for the site is OpenWeatherMap. Site is here: https://openweathermap.org/weather-dashboard
 
 # Deployed Site
